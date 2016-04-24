@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Simple Express server ES6",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Express",
+    "ES6",
+    "Node"
+  ],
+  "author": "Jacques Uys",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
